@@ -9,9 +9,13 @@
 
  1. Install sublime text 3 and python   
  2. Open cmd, install numpy, matplotlib and requests syntax:
- pip install <<package name>> 
+
+    ```pip install <<package name>>```
+
  If it does not work, try:
- python -m pip install <<package name>>
+
+     python -m pip install <<package name>>
+
  3. Download DatAnimation to your PC, open with Sublime Text
  4. Select dropdown button Tools, choose Build
 
